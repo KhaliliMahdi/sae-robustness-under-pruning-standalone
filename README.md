@@ -1,1 +1,1 @@
-# sae-robustness-under-pruning
+# SAE robustness under pruning
