@@ -11,6 +11,8 @@ Department of Computer Science, The Ohio State University
 
 ---
 
+The original repository is [osu-srml/sae-robustness-under-pruning](https://github.com/osu-srml/sae-robustness-under-pruning).
+
 ## 📖 Overview
 
 Sparse autoencoders (SAEs) are widely used to interpret the internal representations of large language models, yet their reliability under post-hoc model compression remains poorly understood. This repository provides a systematic study of how weight pruning affects SAE behavior.
@@ -67,7 +69,7 @@ The theoretical ordering is validated on four model–SAE pairs spanning ~2 orde
 ### Installation
 
 ```bash
-git clone https://github.com/osu-srml/sae-robustness-under-pruning.git
+git clone https://github.com/KhaliliMahdi/sae-robustness-under-pruning.git
 cd sae-robustness-under-pruning
 pip install -r requirements.txt
 ```
